@@ -8,10 +8,8 @@ public class Fvlsm extends javax.swing.JFrame {
     public Fvlsm() {
         initComponents();
         setLocationRelativeTo(null);
-    }
-    
+    }   
      
-    
     public String getIpAddress() {
         return txtIp.getText();
     }
